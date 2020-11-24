@@ -22,6 +22,10 @@ https://docs.m5stack.com/#/en/arduino/arduino_development?id=arduino-ide
 
 https://docs.m5stack.com/#/en/arduino/arduino_development?id=boards-manager
 
+※ Arduino IDEの環境設定の追加のボードマネージャにはこちらのURLを記入してください。
+
+https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
+
 ### 4. M5Stackライブラリのインストール
 
 下記リンクを参考にArduino IDEをインストールしてください。

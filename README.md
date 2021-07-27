@@ -27,3 +27,29 @@ https://docs.m5stack.com/#/en/arduino/arduino_development?id=boards-manager
 下記リンクを参考にArduino IDEをインストールしてください。
 
 https://docs.m5stack.com/#/en/arduino/arduino_development?id=m5stack-library
+
+## B. 「Espressif Esptouch」アプリを使ったM5Stack/ESPシリーズのWi-Fiの設定方法
+
+1. 下記URLからスマートフォンにアプリをインストールします
+
+	※ Androidもアプリがあるようですが、公式のアプリは存在しないようです。
+
+	[https://apps.apple.com/jp/app/espressif-esptouch/id1071176700](https://apps.apple.com/jp/app/espressif-esptouch/id1071176700)
+
+1. あらかじめスマートフォンを設定したいWi-Fiに接続しておきます
+
+    <img src="images/connect_wifi_ssid.png" width="300px" />
+
+    2.4GHzのWi-Fiに接続してください。
+
+1. 「Espressif Esptouch」アプリを起動し、「EspTouch」を選択します。
+
+    <img src="images/launch_app.png" width="300px" />
+
+1. 「Espressif Esptouch」アプリを起動し、「EspTouch」を選択します。
+
+    <img src="images/input_password.png" width="300px" />
+
+1. 下部の「Confirm」をタップし、10〜30秒ほど待って接続完了のポップアップがでたら完了です。
+
+    <img src="images/tap_confirm.png" width="300px" />

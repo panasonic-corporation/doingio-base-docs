@@ -31,7 +31,6 @@ https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_in
 下記リンクを参考にArduino IDEをインストールしてください。
 
 https://docs.m5stack.com/#/en/arduino/arduino_development?id=m5stack-library
-<<<<<<< HEAD
 
 ## B. 「Espressif Esptouch」アプリを使ったM5Stack/ESPシリーズのWi-Fiの設定方法
 
@@ -58,5 +57,3 @@ https://docs.m5stack.com/#/en/arduino/arduino_development?id=m5stack-library
 1. 下部の「Confirm」をタップし、10〜30秒ほど待って接続完了のポップアップがでたら完了です。
 
     <img src="images/tap_confirm.png" width="300px" />
-=======
->>>>>>> 7da262caefb11e6b604946be679276cf029d7d2a

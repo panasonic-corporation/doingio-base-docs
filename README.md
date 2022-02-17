@@ -8,19 +8,19 @@
 
 下記リンクを参考にUSBドライバーをインストールしてください。
 
-https://docs.m5stack.com/#/en/arduino/arduino_development?id=usb-driver
+https://docs.m5stack.com/en/arduino/arduino_development#usb-driver
 
 ### 2. Arduino IDEのインストール
 
 下記リンクを参考にArduino IDEをインストールしてください。
 
-https://docs.m5stack.com/#/en/arduino/arduino_development?id=arduino-ide
+https://docs.m5stack.com/en/arduino/arduino_development#arduino-ide
 
 ### 3. ボード設定
 
 下記リンクを参考にボード設定を行ってください。
 
-https://docs.m5stack.com/#/en/arduino/arduino_development?id=boards-manager
+https://docs.m5stack.com/en/arduino/arduino_development#boards-manager
 
 ※ Arduino IDEの環境設定の追加のボードマネージャにはこちらのURLを記入してください。
 
@@ -30,7 +30,7 @@ https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_in
 
 下記リンクを参考にArduino IDEをインストールしてください。
 
-https://docs.m5stack.com/#/en/arduino/arduino_development?id=m5stack-library
+https://docs.m5stack.com/en/arduino/arduino_development#m5stack-library
 
 ## B. 「Espressif Esptouch」アプリを使ったM5Stack/ESPシリーズのWi-Fiの設定方法
 
